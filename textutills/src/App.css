@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+*{
+    font-family: 'Tektur', cursive !important; 
+}
+
+h1{
+    text-transform: uppercase !important;
+}
+
+#btn2{
+    margin-left: 1rem
+}
+.form-check-label{
+    margin-right: 2rem !important;
+}
+#mybox{
+    outline: 3px solid black;
+}
+.navbar{
+    box-shadow:  0px 3px 7px black;;
+}
+h3{
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+}
+.accordion-button{
+    outline:2px solid black;
+}
